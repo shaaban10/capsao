@@ -1,4 +1,3 @@
-
 <template>
   <audio ref="audioElement"></audio>
 
